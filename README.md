@@ -2,21 +2,29 @@
 
 Matching nodes in a knowledge graph using Graph Convolutional Networks and investigating the interplay between formal semantics and GCNs.
 
-A detailed description of the motivation and the algorithms is available in [the related preprint](https://arxiv.org/pdf/2011.06023.pdf).
+A detailed description of the motivation and the algorithms is available in [the related paper](https://doi.org/10.3233/SW-210452).
 
 ## Citing
 
 When citing, please use the following reference:
 
-Monnin, P., Raïssi, C., Napoli, A., & Coulet, A. (2020). Rediscovering alignment relations with Graph Convolutional Networks. arXiv preprint arXiv:2011.06023.
+Pierre Monnin, Chedy Raïssi, Amedeo Napoli, Adrien Coulet: Discovering alignment relations with Graph Convolutional Networks: A biomedical case study. Semantic Web 13(3): 379-398 (2022)
 
 ```
-@misc{monnin2020rediscovering,
-  title={{Rediscovering alignment relations with Graph Convolutional Networks}},
-  author={Pierre Monnin and Chedy Raïssi and Amedeo Napoli and Adrien Coulet},
-  year={2020},
-  eprint={2011.06023},
-  archivePrefix={arXiv}
+@article{monninRNC22,
+  author    = {Pierre Monnin and
+               Chedy Ra{\"{\i}}ssi and
+               Amedeo Napoli and
+               Adrien Coulet},
+  title     = {Discovering alignment relations with Graph Convolutional Networks:
+               {A} biomedical case study},
+  journal   = {Semantic Web},
+  volume    = {13},
+  number    = {3},
+  pages     = {379--398},
+  year      = {2022},
+  url       = {https://doi.org/10.3233/SW-210452},
+  doi       = {10.3233/SW-210452}
 }
 ```
 
